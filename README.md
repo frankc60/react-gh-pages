@@ -1,16 +1,14 @@
 # URL
 
+To view this React application demo, go here:
 https://frankc60.github.io/react-gh-pages/
 
 # Deploy to URL
 
+In development, to publish content live (to demo) run the following script:
 $ npm run deploy
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Other Available Scripts
 
 In the project directory, you can run:
 
